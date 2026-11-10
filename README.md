@@ -16,3 +16,14 @@
 - 👤 [Explore the creator's projects](https://omgithub.com/sharlonotaku-bot).
 - 🌍 [Create with OMGithub](https://omgithub.com).
 <!-- omgithub:readme:end -->
+
+## Last Light
+
+A self-contained arcade survival game. Open `index.html` in a browser (or serve this folder with any static web server) to play.
+
+- **Move:** WASD or arrow keys
+- **Dash:** Space (short cooldown)
+- **Pause / resume:** P or Escape
+- **Mobile:** drag the on-screen joystick and tap **Dash**
+
+Survive the swarm, let your auto-targeting ship handle the shooting, and collect the star shards for points. Your best score is saved in the browser.
